@@ -1,0 +1,13 @@
+{
+  "@context" :{
+    "name": "http://schema.org/name",
+    "address": "http://schema.org/address",
+    "streetAddress":"http://schema.org/streetAddress",
+    "postalCode": "http://schema.org/postalCode"
+  }
+  "name":"Cedric Dumont",
+  "address":{
+    "streetAddress" : "Main Street 100",
+    "postalCode" : "5555"
+  }
+}
